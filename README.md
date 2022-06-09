@@ -1,4 +1,4 @@
-# tapnbet
+# TAP and BET, yeAH !
 
 This is not yet finished, please wait for a while
 
